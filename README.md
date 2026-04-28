@@ -1,6 +1,6 @@
 # HW5 — Real Estate Deal Analyzer Skill
 
-Video link: `ADD YOUR VIDEO LINK HERE`
+Video link: https://youtu.be/RNOcTLhCu3E
 
 ## What the skill does
 
