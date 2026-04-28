@@ -1,0 +1,40 @@
+{
+  "inputs": {
+    "annual_property_taxes": 12000.0,
+    "annual_insurance": 1000.0,
+    "monthly_hoa": 450.0,
+    "monthly_repairs_maintenance": 200.0,
+    "monthly_vacancy_reserve": 145.0,
+    "monthly_property_management": 0.0,
+    "other_monthly_expenses": 0.0,
+    "closing_costs": 10000.0,
+    "upfront_repairs": 0.0,
+    "purchase_price": 575000.0,
+    "monthly_rent": 2895.0,
+    "down_payment_percent": 10.0,
+    "annual_interest_rate_percent": 5.875,
+    "loan_term_years": 30.0
+  },
+  "results": {
+    "purchase_price": 575000.0,
+    "down_payment": 57500.0,
+    "loan_amount": 517500.0,
+    "monthly_rent": 2895.0,
+    "monthly_principal_and_interest": 3061.21,
+    "monthly_operating_expenses": 1878.33,
+    "monthly_noi": 1016.67,
+    "monthly_cash_flow_after_debt_service": -2044.54,
+    "annual_noi": 12200.0,
+    "annual_cash_flow_after_debt_service": -24534.5,
+    "cap_rate_percent": 2.12,
+    "dscr": 0.33,
+    "initial_cash_invested": 67500.0,
+    "cash_on_cash_return_percent": -36.35
+  },
+  "interpretation_flags": [
+    "Negative monthly cash flow after debt service.",
+    "DSCR below 1.00 means NOI does not cover debt service.",
+    "Cap rate is low; the deal may depend heavily on appreciation or tax benefits.",
+    "Cash-on-cash return is negative under the provided assumptions."
+  ]
+}

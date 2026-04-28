@@ -1,0 +1,16 @@
+{
+  "purchase_price": 575000,
+  "monthly_rent": 0,
+  "down_payment_percent": 10,
+  "annual_interest_rate_percent": 9.5,
+  "loan_term_years": 30,
+  "annual_property_taxes": 12000,
+  "annual_insurance": 1000,
+  "monthly_hoa": 450,
+  "monthly_repairs_maintenance": 200,
+  "monthly_vacancy_reserve": 145,
+  "monthly_property_management": 0,
+  "other_monthly_expenses": 0,
+  "closing_costs": 10000,
+  "upfront_repairs": 0
+}
